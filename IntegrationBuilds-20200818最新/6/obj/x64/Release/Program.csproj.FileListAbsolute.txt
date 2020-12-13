@@ -1,0 +1,237 @@
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.exe.config
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.exe.config
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Release\halcondotnet.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Release\halcondotnet.xml
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\Program.csprojResolveAssemblyReference.cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.HDevelopExport.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainForm.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormLoginInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormNegativeInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormNGInfoInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormNGStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormParameterInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormPositiveInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormUserManager.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.Properties.Resources.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Release\CLIDelegate.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Release\ThridLibray.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.exe.config
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Release\CLIDelegate.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Release\halcondotnet.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Release\ThridLibray.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Release\halcondotnet.xml
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\Program.csprojResolveAssemblyReference.cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.HDevelopExport.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainForm.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormLoginInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormNegativeInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormNGInfoInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormNGStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormParameterInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormPositiveInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.MainFormUserManager.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\_6.Properties.Resources.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Release\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Release\halcondotnet.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.exe.config
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Release\CLIDelegate.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Release\ThridLibray.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Release\halcondotnet.xml
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.HDevelopExport.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainForm.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormLoginInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormNegativeInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormNGInfoInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormNGStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormParameterInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormPositiveInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormUserManager.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.Properties.Resources.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\Program.csprojResolveAssemblyReference.cache
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.exe.config
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.exe
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.pdb
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.exe
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.pdb
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Release\CLIDelegate.dll
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Release\halcondotnet.dll
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Release\ThridLibray.dll
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Release\halcondotnet.xml
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\Program.csprojResolveAssemblyReference.cache
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.HDevelopExport.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainForm.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormLoginInterface.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormNegativeInterface.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormNGInfoInterface.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormNGStatisticsInterface.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormParameterInterface.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormPositiveInterface.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormStatisticsInterface.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.MainFormUserManager.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\_6.Properties.Resources.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2020-04\IntegrationBuilds-20200318 最新 无EXcel\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Release\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.exe.config
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Release\CLIDelegate.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Release\halcondotnet.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Release\ThridLibray.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Release\halcondotnet.xml
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Release\Program.csprojResolveAssemblyReference.cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Release\_6.HDevelopExport.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Release\_6.MainForm.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Release\_6.MainFormLoginInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Release\_6.MainFormNegativeInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Release\_6.MainFormNGInfoInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Release\_6.MainFormNGStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Release\_6.MainFormParameterInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Release\_6.MainFormPositiveInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Release\_6.MainFormStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Release\_6.MainFormUserManager.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Release\_6.Properties.Resources.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Release\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.exe.config
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\bin\x64\Release\CLIDelegate.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\bin\x64\Release\halcondotnet.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\bin\x64\Release\ThridLibray.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\bin\x64\Release\halcondotnet.xml
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Release\Program.csprojResolveAssemblyReference.cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Release\_6.HDevelopExport.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Release\_6.MainForm.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Release\_6.MainFormLoginInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Release\_6.MainFormNegativeInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Release\_6.MainFormNGInfoInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Release\_6.MainFormNGStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Release\_6.MainFormParameterInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Release\_6.MainFormPositiveInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Release\_6.MainFormStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Release\_6.MainFormUserManager.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Release\_6.Properties.Resources.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Release\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.exe.config
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Release\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Release\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Release\CLIDelegate.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Release\halcondotnet.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Release\ThridLibray.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Release\halcondotnet.xml
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Release\Program.csprojResolveAssemblyReference.cache
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Release\_6.HDevelopExport.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Release\_6.MainForm.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Release\_6.MainFormLoginInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Release\_6.MainFormNegativeInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Release\_6.MainFormNGInfoInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Release\_6.MainFormNGStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Release\_6.MainFormParameterInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Release\_6.MainFormPositiveInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Release\_6.MainFormStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Release\_6.MainFormUserManager.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Release\_6.Properties.Resources.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Release\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Release\Newtonsoft.Json.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Release\ASI-2018-Dahua.exe.config
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Release\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Release\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Release\halcondotnet.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Release\L2TCPClient.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Release\halcondotnet.xml
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\_6.HDevelopExport.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\_6.MainForm.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\_6.MainFormLoginInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\_6.MainFormNegativeInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\_6.MainFormNGInfoInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\_6.MainFormNGStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\_6.MainFormParameterInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\_6.MainFormPositiveInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\_6.MainFormStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\_6.MainFormUserManager.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\_6.Properties.Resources.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Release\CLIDelegate.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Release\MvCameraControl.Net.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Release\ThridLibray.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Release\MvCameraControl.Net.xml
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\Program.csprojResolveAssemblyReference.cache
+E:\项目\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Release\ASI-2018-Dahua.exe.config
+E:\项目\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\ASI-2018-Dahua.exe
+E:\项目\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Release\ASI-2018-Dahua.pdb
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Release\ASI-2020-Dahua.exe.config
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Release\ASI-2020-Dahua.exe
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Release\ASI-2020-Dahua.pdb
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Release\CLIDelegate.dll
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Release\DALSA.SaperaLT.SapClassBasic.dll
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Release\halcondotnet.dll
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Release\L2TCPClient.dll
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Release\MvCameraControl.Net.dll
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Release\ThridLibray.dll
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Release\halcondotnet.xml
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Release\MvCameraControl.Net.xml
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.HDevelopExport.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainForm.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormLoginInterface.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormNegativeInterface.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormNGInfoInterface.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormNGStatisticsInterface.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormParameterInterface.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormPositiveInterface.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormStatisticsInterface.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormUserManager.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.Properties.Resources.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Release\Program.csproj.GenerateResource.Cache
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Release\ASI-2020-Dahua.exe
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Release\ASI-2020-Dahua.pdb
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Release\Program.csprojResolveAssemblyReference.cache
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\bin\x64\Release\ASI-2020-Dahua.exe.config
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\obj\x64\Release\ASI-2020-Dahua.exe
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\obj\x64\Release\ASI-2020-Dahua.pdb
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\bin\x64\Release\ASI-2020-Dahua.exe
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\bin\x64\Release\ASI-2020-Dahua.pdb
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\bin\x64\Release\CLIDelegate.dll
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\bin\x64\Release\DALSA.SaperaLT.SapClassBasic.dll
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\bin\x64\Release\halcondotnet.dll
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\bin\x64\Release\MvCameraControl.Net.dll
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\bin\x64\Release\ThridLibray.dll
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\bin\x64\Release\halcondotnet.xml
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\bin\x64\Release\MvCameraControl.Net.xml
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\obj\x64\Release\Program.csprojResolveAssemblyReference.cache
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.HDevelopExport.resources
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainForm.resources
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormLoginInterface.resources
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormNegativeInterface.resources
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormNGInfoInterface.resources
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormNGStatisticsInterface.resources
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormParameterInterface.resources
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormPositiveInterface.resources
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormStatisticsInterface.resources
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.MainFormUserManager.resources
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\obj\x64\Release\_6.Properties.Resources.resources
+E:\项目\033\033\033-solarInspect\IntegrationBuilds-20200818最新\6\obj\x64\Release\Program.csproj.GenerateResource.Cache

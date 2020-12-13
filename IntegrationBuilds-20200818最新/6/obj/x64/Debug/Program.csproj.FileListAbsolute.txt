@@ -1,0 +1,510 @@
+E:\033串检\IntegrationBuilds-20190213\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+E:\033串检\IntegrationBuilds-20190213\6\bin\x64\Debug\ASI-2018-Dahua.exe
+E:\033串检\IntegrationBuilds-20190213\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+E:\033串检\IntegrationBuilds-20190213\6\bin\x64\Debug\CLIDelegate.dll
+E:\033串检\IntegrationBuilds-20190213\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+E:\033串检\IntegrationBuilds-20190213\6\bin\x64\Debug\halcondotnet.dll
+E:\033串检\IntegrationBuilds-20190213\6\bin\x64\Debug\ThridLibray.dll
+E:\033串检\IntegrationBuilds-20190213\6\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+E:\033串检\IntegrationBuilds-20190213\6\bin\x64\Debug\halcondotnet.xml
+E:\033串检\IntegrationBuilds-20190213\6\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\033串检\IntegrationBuilds-20190213\6\obj\x64\Debug\_6.HDevelopExport.resources
+E:\033串检\IntegrationBuilds-20190213\6\obj\x64\Debug\_6.MainForm.resources
+E:\033串检\IntegrationBuilds-20190213\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+E:\033串检\IntegrationBuilds-20190213\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+E:\033串检\IntegrationBuilds-20190213\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+E:\033串检\IntegrationBuilds-20190213\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+E:\033串检\IntegrationBuilds-20190213\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+E:\033串检\IntegrationBuilds-20190213\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+E:\033串检\IntegrationBuilds-20190213\6\obj\x64\Debug\_6.MainFormUserManager.resources
+E:\033串检\IntegrationBuilds-20190213\6\obj\x64\Debug\_6.Properties.Resources.resources
+E:\033串检\IntegrationBuilds-20190213\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+E:\033串检\IntegrationBuilds-20190213\6\obj\x64\Debug\ASI-2018-Dahua.exe
+E:\033串检\IntegrationBuilds-20190213\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+E:\033串检\IntegrationBuilds-20190227\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+E:\033串检\IntegrationBuilds-20190227\6\bin\x64\Debug\ASI-2018-Dahua.exe
+E:\033串检\IntegrationBuilds-20190227\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+E:\033串检\IntegrationBuilds-20190227\6\bin\x64\Debug\CLIDelegate.dll
+E:\033串检\IntegrationBuilds-20190227\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+E:\033串检\IntegrationBuilds-20190227\6\bin\x64\Debug\halcondotnet.dll
+E:\033串检\IntegrationBuilds-20190227\6\bin\x64\Debug\ThridLibray.dll
+E:\033串检\IntegrationBuilds-20190227\6\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+E:\033串检\IntegrationBuilds-20190227\6\bin\x64\Debug\halcondotnet.xml
+E:\033串检\IntegrationBuilds-20190227\6\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\033串检\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.HDevelopExport.resources
+E:\033串检\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainForm.resources
+E:\033串检\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+E:\033串检\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+E:\033串检\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+E:\033串检\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+E:\033串检\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+E:\033串检\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+E:\033串检\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainFormUserManager.resources
+E:\033串检\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.Properties.Resources.resources
+E:\033串检\IntegrationBuilds-20190227\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+E:\033串检\IntegrationBuilds-20190227\6\obj\x64\Debug\ASI-2018-Dahua.exe
+E:\033串检\IntegrationBuilds-20190227\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\obj\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\bin\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\bin\x64\Debug\CLIDelegate.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\bin\x64\Debug\halcondotnet.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\bin\x64\Debug\ThridLibray.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\bin\x64\Debug\halcondotnet.xml
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.HDevelopExport.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainForm.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.MainFormUserManager.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\obj\x64\Debug\_6.Properties.Resources.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190227\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\obj\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\bin\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\bin\x64\Debug\CLIDelegate.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\bin\x64\Debug\halcondotnet.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\bin\x64\Debug\ThridLibray.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\bin\x64\Debug\halcondotnet.xml
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\obj\x64\Debug\_6.HDevelopExport.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\obj\x64\Debug\_6.MainForm.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\obj\x64\Debug\_6.MainFormUserManager.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\obj\x64\Debug\_6.Properties.Resources.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190320\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\obj\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\bin\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\bin\x64\Debug\CLIDelegate.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\bin\x64\Debug\halcondotnet.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\bin\x64\Debug\ThridLibray.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\bin\x64\Debug\halcondotnet.xml
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\obj\x64\Debug\_6.HDevelopExport.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\obj\x64\Debug\_6.MainForm.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\obj\x64\Debug\_6.MainFormUserManager.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\obj\x64\Debug\_6.Properties.Resources.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断、日志功能\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断、日志功能\6\obj\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190327--增加少片判断、日志功能\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\obj\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\bin\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\bin\x64\Debug\CLIDelegate.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\bin\x64\Debug\halcondotnet.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\bin\x64\Debug\ThridLibray.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\bin\x64\Debug\halcondotnet.xml
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\obj\x64\Debug\_6.HDevelopExport.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\obj\x64\Debug\_6.MainForm.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\obj\x64\Debug\_6.MainFormUserManager.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\obj\x64\Debug\_6.Properties.Resources.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190516\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\obj\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\bin\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\bin\x64\Debug\CLIDelegate.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\bin\x64\Debug\halcondotnet.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\bin\x64\Debug\ThridLibray.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\bin\x64\Debug\halcondotnet.xml
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\obj\x64\Debug\_6.HDevelopExport.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\obj\x64\Debug\_6.MainForm.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\obj\x64\Debug\_6.MainFormUserManager.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\obj\x64\Debug\_6.Properties.Resources.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190517\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\obj\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\bin\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\bin\x64\Debug\CLIDelegate.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\bin\x64\Debug\halcondotnet.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\bin\x64\Debug\ThridLibray.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\bin\x64\Debug\halcondotnet.xml
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\obj\x64\Debug\_6.HDevelopExport.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\obj\x64\Debug\_6.MainForm.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\obj\x64\Debug\_6.MainFormUserManager.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\obj\x64\Debug\_6.Properties.Resources.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\obj\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\bin\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\bin\x64\Debug\CLIDelegate.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\bin\x64\Debug\halcondotnet.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\bin\x64\Debug\ThridLibray.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\bin\x64\Debug\halcondotnet.xml
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\obj\x64\Debug\_6.HDevelopExport.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\obj\x64\Debug\_6.MainForm.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\obj\x64\Debug\_6.MainFormUserManager.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\obj\x64\Debug\_6.Properties.Resources.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\obj\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\bin\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\bin\x64\Debug\CLIDelegate.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\bin\x64\Debug\halcondotnet.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\bin\x64\Debug\ThridLibray.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\bin\x64\Debug\halcondotnet.xml
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\obj\x64\Debug\_6.HDevelopExport.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\obj\x64\Debug\_6.MainForm.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\obj\x64\Debug\_6.MainFormUserManager.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\obj\x64\Debug\_6.Properties.Resources.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\bin\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\bin\x64\Debug\CLIDelegate.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\bin\x64\Debug\halcondotnet.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\bin\x64\Debug\ThridLibray.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\bin\x64\Debug\halcondotnet.xml
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\obj\x64\Debug\_6.HDevelopExport.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\obj\x64\Debug\_6.MainForm.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\obj\x64\Debug\_6.MainFormUserManager.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\obj\x64\Debug\_6.Properties.Resources.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\obj\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -优化代码\6\obj\x64\Debug\_6.MainFormNGInfoInterface.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.exe
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\CLIDelegate.dll
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\halcondotnet.dll
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ThridLibray.dll
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\halcondotnet.xml
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.HDevelopExport.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainForm.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGInfoInterface.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormUserManager.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.Properties.Resources.resources
+C:\Users\ATWER\Documents\WXWork\1688852578311383\Cache\File\2019-09\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\IntegrationBuilds-20190521--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\CLIDelegate.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\halcondotnet.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ThridLibray.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\halcondotnet.xml
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.HDevelopExport.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainForm.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGInfoInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormUserManager.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.Properties.Resources.resources
+F:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\halcondotnet.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\halcondotnet.xml
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.HDevelopExport.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainForm.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGInfoInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormUserManager.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.Properties.Resources.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\CLIDelegate.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20191008--020（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ThridLibray.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\CLIDelegate.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\halcondotnet.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\ThridLibray.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\bin\x64\Debug\halcondotnet.xml
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.HDevelopExport.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainForm.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGInfoInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.MainFormUserManager.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\_6.Properties.Resources.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200106（修改NG信息，正反结合）中英文 -最新 无EXcel\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Debug\CLIDelegate.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Debug\halcondotnet.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Debug\ThridLibray.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\bin\x64\Debug\halcondotnet.xml
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Debug\_6.HDevelopExport.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Debug\_6.MainForm.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGInfoInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Debug\_6.MainFormUserManager.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Debug\_6.Properties.Resources.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200318 最新 无EXcel\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Debug\CLIDelegate.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Debug\halcondotnet.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Debug\ThridLibray.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Debug\halcondotnet.xml
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\_6.HDevelopExport.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\_6.MainForm.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGInfoInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\_6.MainFormUserManager.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\_6.Properties.Resources.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe.manifest
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.application
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.TrustInfo.xml
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.exe.manifest
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200406 最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.application
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\bin\x64\Debug\CLIDelegate.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\bin\x64\Debug\halcondotnet.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\bin\x64\Debug\ThridLibray.dll
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\bin\x64\Debug\halcondotnet.xml
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Debug\_6.HDevelopExport.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Debug\_6.MainForm.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGInfoInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Debug\_6.MainFormUserManager.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Debug\_6.Properties.Resources.resources
+E:\W1127-徐慧鹏\033\无锡奥特维科技033项目串检程序最终交接版-黄浩20190227\源码\IntegrationBuilds-20200421 最新 无EXcel\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Debug\CLIDelegate.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Debug\halcondotnet.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Debug\ThridLibray.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Debug\halcondotnet.xml
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Debug\_6.HDevelopExport.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Debug\_6.MainForm.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGInfoInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Debug\_6.MainFormUserManager.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Debug\_6.Properties.Resources.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200429TR 最新 无EXcel\6\bin\x64\Debug\Newtonsoft.Json.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Debug\ASI-2018-Dahua.exe.config
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Debug\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Debug\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Debug\CLIDelegate.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Debug\halcondotnet.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Debug\L2TCPClient.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Debug\MvCameraControl.Net.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Debug\ThridLibray.dll
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Debug\halcondotnet.xml
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\bin\x64\Debug\MvCameraControl.Net.xml
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Debug\_6.HDevelopExport.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Debug\_6.MainForm.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Debug\_6.MainFormNGInfoInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Debug\_6.MainFormUserManager.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Debug\_6.Properties.Resources.resources
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Debug\ASI-2018-Dahua.exe
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Debug\ASI-2018-Dahua.pdb
+E:\W1127-徐慧鹏\033\TR\IntegrationBuilds-20200507合并\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Debug\ASI-2020-Dahua.exe.config
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Debug\ASI-2020-Dahua.exe
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Debug\ASI-2020-Dahua.pdb
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Debug\CLIDelegate.dll
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Debug\halcondotnet.dll
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Debug\L2TCPClient.dll
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Debug\MvCameraControl.Net.dll
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Debug\ThridLibray.dll
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Debug\halcondotnet.xml
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\bin\x64\Debug\MvCameraControl.Net.xml
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Debug\_6.HDevelopExport.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Debug\_6.MainForm.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Debug\_6.MainFormLoginInterface.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Debug\_6.MainFormNegativeInterface.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Debug\_6.MainFormNGInfoInterface.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Debug\_6.MainFormNGStatisticsInterface.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Debug\_6.MainFormParameterInterface.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Debug\_6.MainFormPositiveInterface.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Debug\_6.MainFormStatisticsInterface.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Debug\_6.MainFormUserManager.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Debug\_6.Properties.Resources.resources
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Debug\Program.csproj.GenerateResource.Cache
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Debug\ASI-2020-Dahua.exe
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Debug\ASI-2020-Dahua.pdb
+E:\项目\033\TR\IntegrationBuilds-20200818最新\6\obj\x64\Debug\Program.csprojResolveAssemblyReference.cache
